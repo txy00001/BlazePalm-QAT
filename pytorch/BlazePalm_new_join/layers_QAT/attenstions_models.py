@@ -4,6 +4,8 @@ from torch.nn import functional as F
 import torch
 import torch.nn.init as init
 from torchvision import models
+from pytorch_quantization import quant_modules
+from pytorch_quantization import nn as quant_nn
 
 class SEModule(nn.Module):##注意力机制
     def __init__(self, channel, reduction=4):

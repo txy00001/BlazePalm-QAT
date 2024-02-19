@@ -3,7 +3,7 @@ import torch.nn as nn
 
 import numpy as np
 import torch.nn.functional as F
-from pytorch_quantization import quant_modules
+#from pytorch_quantization import quant_modules
 #from pytorch_quantization import nn as quant_nn
 class GetKeysDict:
     def __init__(self):
