@@ -39,3 +39,6 @@ python test.py --mode video --source videos/hand_test.mp4
 ```
 python train.py
 ```
+###训练数据集
+链接：https://pan.baidu.com/s/1rNg8Fo7L0Lf2vj4HAtAltg?pwd=1234 
+提取码：1234
