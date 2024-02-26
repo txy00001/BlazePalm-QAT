@@ -43,4 +43,6 @@ python train.py
 ## 训练数据集
 链接：https://pan.baidu.com/s/1rNg8Fo7L0Lf2vj4HAtAltg?pwd=1234 
 提取码：1234
-其他后续补充
+## 预训练权重
+链接：https://pan.baidu.com/s/1H9TG4x8KtULLpJtPrG8qOg?pwd=0dj6 
+提取码：0dj6
